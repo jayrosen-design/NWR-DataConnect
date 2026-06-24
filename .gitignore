@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+.vite/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Firebase
+.firebase/
+firebase-debug.log
+firebase-debug.*.log
+ui-debug.log
+
+# Test / coverage
+coverage/
+
+# Misc
+*.local
+.cache/
+
+# Project-specific: pre-build planning docs (not part of shipped toolkit)
+resources/
+
+# Unity editor metadata (this repo is standalone, not under Assets/)
+*.meta
