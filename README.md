@@ -1,6 +1,8 @@
 # NWR Data Connect
 
-![AR Expeditions Firebase to Data Lagoon](https://github.com/jayrosen-design/NWR-DataConnect/blob/main/AR%20Expeditions%20Firebase%20to%20Data%20Lagoon.png?raw=1)
+<a href="https://github.com/jayrosen-design/NWR-DataConnect/blob/main/AR%20Expeditions%20Firebase%20to%20Data%20Lagoon.png">
+  <img src="https://github.com/jayrosen-design/NWR-DataConnect/raw/main/AR%20Expeditions%20Firebase%20to%20Data%20Lagoon.png" alt="AR Expeditions Firebase to Data Lagoon" />
+</a>
 
 Integration toolkit for linking **New Worlds Reading (NWR)** student profiles to the **AR Expeditions** Unity mobile app via 6-digit access codes.
 
