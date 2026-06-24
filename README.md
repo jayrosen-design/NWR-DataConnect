@@ -1,5 +1,7 @@
 # NWR Data Connect
 
+![AR Expeditions Firebase to Data Lagoon](https://github.com/jayrosen-design/NWR-DataConnect/blob/main/AR%20Expeditions%20Firebase%20to%20Data%20Lagoon.png?raw=1)
+
 Integration toolkit for linking **New Worlds Reading (NWR)** student profiles to the **AR Expeditions** Unity mobile app via 6-digit access codes.
 
 This repository provides a local development environment (mock Data Lagoon web app and API) and a Firebase Cloud Function template for production. Unity game scripts live in the separate **AR Expeditions** Unity project — this repo documents how to connect them.
